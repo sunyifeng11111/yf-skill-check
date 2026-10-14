@@ -1,0 +1,4 @@
+interface:
+  display_name: "yf-skill-check"
+  short_description: "检查技能触发冲突与潜在 Token 开销，生成附证据和建议的本地网页报告"
+  default_prompt: "使用 $yf-skill-check 体检当前平台的 skills，生成中文 HTML 报告。"
